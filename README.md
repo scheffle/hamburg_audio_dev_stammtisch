@@ -8,7 +8,7 @@ Für Zeit und Orts Vorschläge einfach einen Pull-Request machen.
 
 ## Die nächsten Termine :
 
-- 23.05.2024 19 Uhr ???
+- 30.05.2024 19 Uhr ???
 - 27.06.2024
 
 ## History
