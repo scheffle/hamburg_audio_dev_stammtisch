@@ -4,7 +4,7 @@ Offener Stammtisch für alle die sich irgendwie als Audio Developer bezeichnen l
 
 Jeden letzten Donnerstag im Monat. Ort und Zeit wird hier auf GitHub angekündigt.
 
-Für Zeit und Orts Vorschläge einfach einen Pull-Request machen.
+Für Zeit und Orts Vorschläge einfach einen Pull-Request machen oder im Forum vorschlagen.
 
 ## Die nächsten Termine :
 
