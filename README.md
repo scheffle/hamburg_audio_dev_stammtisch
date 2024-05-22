@@ -8,7 +8,7 @@ Für Zeit und Orts Vorschläge einfach einen Pull-Request machen oder im Forum v
 
 ## Die nächsten Termine :
 
-- 16.07.2024 19 Uhr ???
+- 16.07.2024 19 Uhr
   - [Wo?](https://github.com/scheffle/hamburg_audio_dev_stammtisch/discussions/2)
 
 ## History
