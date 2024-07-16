@@ -10,6 +10,7 @@ Für Zeit und Orts Vorschläge einfach einen Pull-Request machen oder im Forum v
 
 - 16.07.2024 19 Uhr
   - Park Cafe, Unzerstraße 18A, 22767 Hamburg, [[Diskussion](https://github.com/scheffle/hamburg_audio_dev_stammtisch/discussions/2)]
+- 26.09.2024 19 Uhr
 
 ## History
 
