@@ -8,10 +8,10 @@ Für Zeit und Orts Vorschläge einfach einen Pull-Request machen oder im Forum v
 
 ## Die nächsten Termine :
 
-- 16.07.2024 19 Uhr
-  - Park Cafe, Unzerstraße 18A, 22767 Hamburg, [[Diskussion](https://github.com/scheffle/hamburg_audio_dev_stammtisch/discussions/2)]
-- 26.09.2024 19 Uhr
+- 26.09.2024 19 Uhr [[Diskussion](https://github.com/scheffle/hamburg_audio_dev_stammtisch/discussions/3)]
 
 ## History
 
 - 25.04.2024 19 Uhr BrewDog Reeperbahn 1 HH
+- 16.07.2024 19 Uhr
+  - Park Cafe, Unzerstraße 18A, 22767 Hamburg, [[Diskussion](https://github.com/scheffle/hamburg_audio_dev_stammtisch/discussions/2)]
