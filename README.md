@@ -1,10 +1,13 @@
-# Hamburger Audio Developer Stammtisch
+# Hamburger Audio Stammtisch
 
-Offener Stammtisch für alle die sich irgendwie als Audio Developer bezeichnen lassen könnten.
+The Stammtisch formerly known as Audio Developer Stammtisch. :-)
 
-Getroffen wird sich in etwa alle 3 Monate, Ort und Zeit wird hier auf GitHub angekündigt.
+Offener Stammtisch für alle, die in irgendeiner Form in der (professionellen) Audio Branche tätig sind oder waren.
+Früher haben sich hauptsächlich Entwickler getroffen, das muss aber gar nicht so sein. Jeder aus der Branche ist herzlich willkommen!
 
-Für Zeit und Orts Vorschläge einfach einen Pull-Request machen oder im Forum vorschlagen.
+Getroffen wird sich ca. 2-3 Mal pro Jahr, Ort und Zeit wird hier auf GitHub angekündigt.
+
+Für Zeit- und Orts-Vorschläge einfach einen Pull-Request machen oder im Forum vorschlagen.
 
 ## Die nächsten Termine :
 
